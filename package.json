@@ -1,0 +1,26 @@
+{
+  "name": "icdots",
+  "version": "0.1.0",
+  "description": "Game: Dots and Boxes - My 'React with TypeScript' version of a game inspired by a Codewars kata.",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.0.1",
+    "@types/node": "^9.3.0",
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3",
+    "react-scripts-ts": "2.13.0",
+    "typescript": "^2.6.2"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "homepage": "https://github.com/KDCinfo/icdots",
+  "author": "Keith D Commiskey <https://kdcinfo.com>"
+}
