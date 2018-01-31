@@ -13,7 +13,7 @@ I added TypeScript alongside/during the conversion (as it should be done; it's n
 
 ## Application URLs
 
-  - [GitHub Pages](https://KDCinfo.github.io/icdots/)
+  - [GitHub Pages](https://github.com/KDCinfo/icdots/)
   - [CodePen Version (working demo)](https://codepen.io/KeithDC/pen/OzdoLv/)
   - [Process Flowchart](https://www.draw.io/?lightbox=1&highlight=0000ff&layers=1&nav=1&title=icdots.xml#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1sRE6F_TaY1wr99M4WZ0dOCoF65AiMdKT%26export%3Ddownload) -- This flowchart outline depicts the primary *ICDots* process flow. It was done at about 90% project completion, was finalized in tandem with project completion, and took about a day to complete. [https://www.draw.io](@drawio rocks!)
 
