@@ -29,6 +29,11 @@ Working on this project provided me a more in-depth look into
 
 `[JavaScript]` `[react]` `[reactjs]` `[typescript]` `[coding practice]` `[coding fun]`
 
+## Other Potential Enhancements
+  - Save states to local storage.
+  - Activate multi-game option (the code is already in place for this).
+  - Enable real-time playing (2-way data binding...?)
+
 ## Tribute | Create React App with TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) with [TypeScript](https://github.com/wmonk/create-react-app-typescript).
